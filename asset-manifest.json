@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todaywelearned/static/css/main.dcfa4a60.css",
+    "main.js": "/todaywelearned/static/js/main.f2bac269.js",
+    "index.html": "/todaywelearned/index.html",
+    "main.dcfa4a60.css.map": "/todaywelearned/static/css/main.dcfa4a60.css.map",
+    "main.f2bac269.js.map": "/todaywelearned/static/js/main.f2bac269.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcfa4a60.css",
+    "static/js/main.f2bac269.js"
+  ]
+}
